@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+    background-color: powderblue;
+    color: orchid;
+}
+a:hover{
+    font-size: 22px;
+    color: yellow;
+    transition: 2s;
+    font-family: ;
+}
